@@ -1,7 +1,6 @@
 document.addEventListener("DOMContentLoaded", function () {
     let dropdown = document.querySelector(".dropdown");
     let dropdownMenu = document.querySelector(".dropdown-menu");
-
     dropdown.addEventListener("click", function (event) {
         event.preventDefault(); 
         event.stopPropagation(); 
