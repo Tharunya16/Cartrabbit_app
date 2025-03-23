@@ -5,5 +5,4 @@ Cartrabbit is a fictional e-commerce platform focused on providing high-quality 
 
 **#MY WEB LINK**
 
-https://cartrabbit-3avjlk82b-tharunya-ss-projects.vercel.app
 https://https://cartrabbits.netlify.app/#
