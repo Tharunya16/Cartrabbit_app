@@ -5,6 +5,7 @@ document.addEventListener("DOMContentLoaded", function () {
         event.preventDefault(); 
         event.stopPropagation(); 
         dropdownMenu.classList.toggle("show");
+        
     });
     document.addEventListener("click", function (event) {
         if (!dropdown.contains(event.target)) {
