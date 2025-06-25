@@ -5,4 +5,4 @@ This project is the About Us page for Cartrabbit, an e-commerce platform. It pre
 
 **#MY WEB LINK**
 
-https://cartrabbits.netlify.app/#
+https://cartrabbit-app-olgq.vercel.app/
